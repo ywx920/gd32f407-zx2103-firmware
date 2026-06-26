@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "version_msg.h": "c",
+        "gd32f4xx.h": "c",
+        "serial.h": "c",
+        "bsp.h": "c",
+        "systick.h": "c",
+        "gd32f4xx_it.h": "c",
+        "led.h": "c",
+        "spi_flash.h": "c",
+        "gn1406.h": "c",
+        "lt1258.h": "c",
+        "string.h": "c",
+        "clrd125.h": "c",
+        "gpio_i2c.h": "c",
+        "stdint.h": "c",
+        "stdio.h": "c"
+    }
+}
