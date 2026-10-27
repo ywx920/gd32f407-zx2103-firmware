@@ -1,0 +1,15 @@
+
+
+# Generated local artifacts and credentials
+JLinkLog.txt
+JLinkLog.log
+Buildlog.txt
+*.build_log.htm
+*.d
+*.lnp
+**/Objects/*.htm
+**/output/*.htm
+*.si4project/
+.env
+.env.*
+!.env.example
